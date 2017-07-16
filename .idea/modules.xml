@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/comhello.iml" filepath="$PROJECT_DIR$/comhello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorldJenkinsCI.iml" filepath="$PROJECT_DIR$/HelloWorldJenkinsCI.iml" />
     </modules>
   </component>
 </project>
