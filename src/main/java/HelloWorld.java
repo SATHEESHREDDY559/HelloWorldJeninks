@@ -6,7 +6,7 @@
 public class HelloWorld {
     private String test= null;
     private int num;
-
+//Constructor
     public HelloWorld(String test, int num) {
         this.test = test;
         this.num = num;
