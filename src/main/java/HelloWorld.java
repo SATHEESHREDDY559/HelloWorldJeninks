@@ -10,7 +10,7 @@ public class HelloWorld {
 
 
     private int num;
-
+//Constructor
     public HelloWorld(String test, int num) {
         this.test = test;
         this.num = num;
